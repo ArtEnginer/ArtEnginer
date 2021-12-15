@@ -8,4 +8,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artenginer&layout=compact)](https://github.com/artenginer/github-readme-stats)
 
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="in_ID" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="angga-saputra-519b46177" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://id.linkedin.com/in/angga-saputra-519b46177?trk=profile-badge">Angga Saputra</a></div>
+
