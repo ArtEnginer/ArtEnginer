@@ -5,4 +5,4 @@
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=artenginer alt=artenginer /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=artenginer&show_icons=true&include_all_commits=true)](https://github.com/artenginer/github-readme-stats)
+<!-- [![Github stats](https://github-readme-stats.vercel.app/api?username=artenginer&show_icons=true&include_all_commits=true)](https://github.com/artenginer/github-readme-stats) -->
