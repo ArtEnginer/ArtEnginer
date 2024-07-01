@@ -1,41 +1,39 @@
-# Hey 👋, This is Angga Saputra
-[![Gmail Badge](https://img.shields.io/badge/-anggaegae@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:anggaegae@gmail.com)](mailto:anggaegae@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-ArtEnginer-0072b1?style=flat&logo=Linkedin&logoColor=white&link=linkedin.com/in/anggaegae)](https://www.linkedin.com/in/anggaegae/) 
-[![Github Badge](https://img.shields.io/badge/-artenginer-grey?style=flat&logo=github&logoColor=white&link=https://github.com/artenginer/)](https://www.github.com/artenginer/) 
-[![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=ArtEnginer.github.io/)](https://ArtEnginer.github.io/) 
+<!-- Header -->
+![Header](https://your-custom-image-url.com/header.png)
 
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=artenginer alt=artenginer /> </p>
+<!-- Introduction -->
+# Hi there, I'm Angga Saputra! 👋
+I'm passionate about engineering and art, and I love to combine both to create amazing projects. Welcome to my GitHub profile!
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=artenginer&show_icons=true&include_all_commits=true)](https://github.com/artenginer/github-readme-stats)
+<!-- Animated GitHub Stats -->
+![Angga's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtEnginer&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artenginer&layout=compact)](https://github.com/artenginer/github-readme-stats)
+<!-- Most Used Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtEnginer&layout=compact&theme=radical)
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=artenginer&theme=dark&background=000000)
+<!-- GitHub Profile Trophy -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=ArtEnginer&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=artenginer&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true)
+<!-- GitHub Streak Stats -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArtEnginer&theme=radical)
 
-<!--- You can add more sections here as per your requirement --->
+<!-- Visitor Count -->
+![Visitor Count](https://komarev.com/ghpvc/?username=ArtEnginer&color=blue&style=flat-square)
 
-## 🛠️ Skills
+<!-- Social Media -->
+## Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&labelColor=blue)](https://twitter.com/your-profile)
+[![Instagram](https://img.shields.io/badge/Instagram-purple?style=flat&logo=instagram&labelColor=purple)](https://instagram.com/your-profile)
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&labelColor=red)](https://youtube.com/your-profile)
 
-- **Languages**: JavaScript, Python, Java
-- **Frameworks**: React, Node.js, Django
-- **Tools**: Git, Docker, Kubernetes
+<!-- GitHub Activity Graph -->
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=ArtEnginer&theme=react-dark)
 
-## 📫 How to reach me:
+<!-- GitHub Repos -->
+## My Projects:
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ArtEnginer&repo=YourRepo1&theme=radical)](https://github.com/ArtEnginer/YourRepo1)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ArtEnginer&repo=YourRepo2&theme=radical)](https://github.com/ArtEnginer/YourRepo2)
 
-- Email: [anggaegae@gmail.com](mailto:anggaegae@gmail.com)
-- LinkedIn: [ArtEnginer](https://www.linkedin.com/in/anggaegae/)
-- GitHub: [artenginer](https://www.github.com/artenginer/)
-
-## 💡 Projects
-
-<!-- Add your projects here with a brief description and link -->
-
-## 🔥 My Motto
-> "Keep pushing forward and never stop learning."
-
-<p align="center">
-  <img src="https://github.com/artenginer/artenginer/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+<!-- Footer -->
+![Footer](https://your-custom-image-url.com/footer.png)
