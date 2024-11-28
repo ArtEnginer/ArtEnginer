@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with expertise 
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anggaegae&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArtEnginer&show_icons=true&theme=radical)
 
 ## Let's Connect!
 
