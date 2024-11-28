@@ -36,10 +36,6 @@ Welcome to my GitHub profile! I'm a passionate software engineer with expertise 
 - **Cloud**: AWS, Google Cloud
 - **Other**: REST APIs, CI/CD, Machine Learning, Data Science
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArtEnginer&show_icons=true&theme=radical)
-
 ## Let's Connect!
 
 I'm always open to discussing new opportunities, sharing knowledge, and collaborating on exciting projects. Feel free to reach out through the contact links above or send me a message on GitHub.
