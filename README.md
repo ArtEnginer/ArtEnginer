@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with expertise 
 ## Skills & Technologies
 
 - **Languages**: Python, JavaScript, PHP, SQL, ETC
-- **Frameworks**: Vue Js, Django, Flask, Express.js
+- **Frameworks**: Codeigniter, Laravel, Flask, ETC
 - **Databases**: PostgreSQL, MySQL, MongoDB
 - **Tools**: Git, Docker, Kubernetes, AWS
 - **Cloud**: AWS, Google Cloud
